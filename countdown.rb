@@ -3,6 +3,5 @@ countdown = 12
   puts "#{countdown} SECONDS"
   countdown -= 1
 end
-  puts "HAPPY NEW YEAR"
-end
+ 
  
